@@ -1,0 +1,11 @@
+# OpenDART 인증키 — 절대 커밋하지 않음
+dart_key.txt
+.env
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
